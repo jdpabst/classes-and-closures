@@ -218,5 +218,7 @@ function timeOutCounter() {
 }
 timeOutCounter();
 
+// you can also use the original code and just change the 'var' to 'let' to create a separate scope for the code block to allow the for loop to print each number consecutively. //
+
 
 
